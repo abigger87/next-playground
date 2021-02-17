@@ -17,7 +17,7 @@
     "react-dom": "^16.7.0",
     "react-markdown": "^4.2.2",
     "reactstrap": "^8.0.1",
-    "styled-jsx": "^3.2.2"
+    "styled-jsx": "^3.4.4"
   },
   "devDependencies": {
     "@types/next": "^7.0.6",
